@@ -20,7 +20,7 @@ Axis For Termux, dor sytem injection quota free with scapper AXISnet.
     ```
     
     ```
-    git clone https://github.com/hidessh99/tembakaxis.git
+    git clone https://github.com/lycoxz/AxisForTermux.git
     ```
 
     ```
