@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+cd $HOME/AxisForTermux
+clear
+php apiaxis.php
